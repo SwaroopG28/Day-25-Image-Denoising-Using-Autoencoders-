@@ -3,7 +3,6 @@
 ## **Overview**  
 This project implements an **Image Denoising Autoencoder** using **Convolutional Neural Networks (CNNs)**. The model removes noise from images by learning to reconstruct the original, clean image from noisy input.  
 
-
 ## **How It Works**  
 1. **Dataset**: Uses the **MNIST dataset** (handwritten digits).  
 2. **Adding Noise**: Artificial noise is added to simulate real-world noise.  
